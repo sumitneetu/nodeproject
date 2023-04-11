@@ -1,0 +1,3 @@
+{
+    "jwtPrivateKey" : "1234" // we neet to store in ev variables by export jwt_private_key="JHG%^%"
+}

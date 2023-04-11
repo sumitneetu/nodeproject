@@ -1,0 +1,4 @@
+{
+    "name" : "Default project name",
+    "jwtPrivateKey" : "node_jwtPrivateKey" // we neet to store in ev variables by export jwt_private_key="JHG%^%"
+}
